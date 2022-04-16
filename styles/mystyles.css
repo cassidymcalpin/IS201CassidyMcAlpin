@@ -1,0 +1,35 @@
+
+.photowebsite {
+    text-align:center;
+    color: black
+}
+
+.CManchor {
+    text-align:left;
+    color: black;
+    font-size: 20px;
+    background-color: white;
+}
+
+.CMcenter {
+    text-align:center;
+    color: black;
+    font-size: 20px;
+    background-color: white;
+}
+
+.CMvid {
+    text-align:center;
+    color: black;
+    font-size: 40px;
+    background-color: white;
+    font-weight:bold;
+}
+
+.CMfunfact {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    background-color: white;
+    height: 65px;
+}
